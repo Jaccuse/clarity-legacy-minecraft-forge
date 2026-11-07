@@ -40,6 +40,10 @@ Requires **JDK 8** (ForgeGradle 2.1 does not work on newer Java versions).
 
 First-time setup for IDE work: `./gradlew setupDecompWorkspace`, then `./gradlew eclipse` or `./gradlew idea`.
 
+## Disclaimer
+
+This mod was originally created without Claude. It was later cleaned up, updated, and published to GitHub with the help of [Claude Code](https://claude.com/claude-code).
+
 ## License
 
 [MIT](LICENSE)
