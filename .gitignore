@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+
+# Forge dev run directory (saves, logs, options)
+run/
+
+# Eclipse
+eclipse/
+bin/
+.settings/
+.metadata/
+.classpath
+.project
+*.launch
+
+# IntelliJ
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# OS / misc
+.DS_Store
+Thumbs.db
+*.log

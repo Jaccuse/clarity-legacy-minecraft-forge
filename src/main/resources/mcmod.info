@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "clarity",
+    "name": "clarity",
+    "description": "A simple toggleable, human-readable debug overlay.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/Jaccuse/clarity-legacy-minecraft-forge",
+    "authorList": ["jack + GPT 5.5"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
